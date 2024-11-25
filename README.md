@@ -125,6 +125,8 @@ Jika pengguna sudah selesai dengan program bisa memilih nomor 6 untuk keluar dar
 ```
 
 ## Flowchart Program
+![Flowchart Praktikum5](https://github.com/user-attachments/assets/738b80a2-e096-403b-a1e1-34c0195bd100)
+
 
 
 
